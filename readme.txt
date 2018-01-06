@@ -1,1 +1,1 @@
-sample project changed again
+sample project changed again -- conflict!
